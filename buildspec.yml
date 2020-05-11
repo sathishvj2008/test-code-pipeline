@@ -29,6 +29,6 @@ phases:
       - echo Pushing the Docker image...
       
       - mv target/deploy ./
-  artifacts:
+artifacts:
   files:
     - deploy/**/*
