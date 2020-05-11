@@ -11,7 +11,7 @@ public class MyController {
 	@GetMapping("/all")
 	public String getUser() {
 		
-		return "All user-sathish V J- new version";";
+		return "All user-sathish V J- new version";
 	}
 
 }
